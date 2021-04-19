@@ -7,6 +7,6 @@ Please paste a copy of the data file (KNN_Project_Data) in your documents or whe
 
 To save the plots, create a new folder and use the os module to change the working directory. Lines 14-16
 
-Libraries Required: NumPy, Pandas, os, Seaborn and Matplotlib
+Libraries Required: NumPy, Pandas, os, SciKit Learn (sklearn), Seaborn and Matplotlib
 
 I have used a Random State for my Train Test split, your results will be the same as min. If you wish to obtain different results, specify the random state in line 49.
